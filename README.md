@@ -1,6 +1,6 @@
-<h2>안녕하세요👋</h2>
+# 안녕하세요👋
 <p>
-🌱 자라나는 새싹과 같은 백엔드 개발자입니다.<br>
+🌱 자라나는 새싹, 백엔드 개발자입니다.<br>
 💬 호기심을 원동력으로 다양한 경험을 체험했습니다.<br>
 📫 스스로의 발전을 위해 끊임없이 노력합니다.<br>
 </p>
@@ -8,13 +8,22 @@
 <a href="https://github.com/Leegyung-jin/"><img src="https://img.shields.io/badge/GitHub-5C5543?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Leegyung-jin/"/></a>
 
 <br><br>
-<strong>💻IT 경험</strong><br><br>
+
+## 📚 언어 및 도구
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-white?style=flat-square&logo=CSS3&logoColor=1572B6"/>
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-white?style=flat-square&logo=SpringBoot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
+
+<br>
+
+## 💻 IT 경험
 <img src="https://img.shields.io/badge/QA-13ADC7?style=flat-square&logo=Textpattern&logoColor=red"/><br>
 [2018. 03. - 2020. 01.] 엔글<br>
 > - NC SOFT에서 서비스되는 게임의 웹 이벤트 QA 진행<br>
 > 기획서 기반의 TC작성 및 데이터 설계<br>
 > RC/Live 환경에서의 테스트 진행
-
 
 <br>
 
