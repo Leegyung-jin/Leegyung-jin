@@ -18,7 +18,7 @@
 
 <br>
 
-## 💻 IT 경험
+## 💻 IT 
 <img src="https://img.shields.io/badge/QA-13ADC7?style=flat-square&logo=Textpattern&logoColor=red"/><br>
 [2018. 03. - 2020. 01.] 엔글<br>
 > - NC SOFT에서 서비스되는 게임의 웹 이벤트 QA 진행<br>
@@ -39,3 +39,5 @@
 > - 건설업 어드민의 개발 및 유지보수<br>
 > 현장에 따라 필요한 기능 개발(CCTV 출력 및 일반/기업회원 처리 등)<br>
 > 기존에 하드코딩된 회원 구분을 회원 등급 및 권한을 적용하여 개편
+
+<br><br>
