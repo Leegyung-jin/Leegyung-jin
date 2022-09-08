@@ -6,6 +6,7 @@
 </p>
 <a href="https://bameh.tistory.com/"><img src="https://img.shields.io/badge/Tistory-white?style=flat-square&logo=Tistory&logoColor=000000&link=https://bameh.tistory.com/"/></a>
 <a href="https://github.com/Leegyung-jin/"><img src="https://img.shields.io/badge/GitHub-5C5543?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Leegyung-jin/"/></a>
+<a href="https://cautious-venom-66e.notion.site/63eeffa782904d1fa14ad6d3f254e463?v=ad714e80f9274116b5abbe348eb1ed00/"><img src="https://img.shields.io/badge/Notion::BaseBallGO-000000?style=flat-square&logo=Notion&logoColor=white&link=https://cautious-venom-66e.notion.site/63eeffa782904d1fa14ad6d3f254e463?v=ad714e80f9274116b5abbe348eb1ed00/"/></a>
 
 <br><br>
 
