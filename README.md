@@ -1,8 +1,5 @@
 # 안녕하세요👋
 <p>
-🌱 자라나는 새싹, 백엔드 개발자입니다.<br>
-💬 호기심을 원동력으로 다양한 경험을 체험했습니다.<br>
-📫 스스로의 발전을 위해 끊임없이 노력합니다.<br>
 </p>
 <a href="https://bameh.tistory.com/"><img src="https://img.shields.io/badge/Tistory-white?style=flat-square&logo=Tistory&logoColor=000000&link=https://bameh.tistory.com/"/></a>
 <a href="https://github.com/Leegyung-jin/"><img src="https://img.shields.io/badge/GitHub-5C5543?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Leegyung-jin/"/></a>
